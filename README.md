@@ -21,5 +21,3 @@ O objetivo aqui é estudar as aulas do Prof. Fabiano Salles para se iniciar no d
 * [![Delphi](https://img.shields.io/badge/-Delphi-E62431?logo=delphi&logoColor=white&style=plastic)](https://www.embarcadero.com/products/delphi) 12.1 Athens
 
 
-### 📄 Licença / *License*
-* Todo
