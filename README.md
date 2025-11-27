@@ -9,7 +9,7 @@ O objetivo aqui é estudar as aulas do Prof. Fabiano Salles para se iniciar no d
 
 
 ### 👉 Características / *Features*
-* Desenvolvimento de games sem o uso de APIs ou Frameworks como o OpenGL ou o DirectX, usando apenas o Pascal como base, seguindo os preceitos do Prfo. Fabiano Salles.
+* Desenvolvimento de games sem o uso de APIs ou Frameworks como o OpenGL ou o DirectX, usando apenas o Pascal como base, seguindo os preceitos do Prof. Fabiano Salles.
 
 
 ### 👍 Agradecimentos / *Acknowledgements*
